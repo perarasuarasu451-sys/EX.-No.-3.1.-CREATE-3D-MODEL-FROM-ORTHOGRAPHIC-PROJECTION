@@ -46,7 +46,8 @@ To create a 3D model from given orthographic projection.
 
 [EX 3.1 EDM 25004665.pdf](https://github.com/user-attachments/files/24939064/EX.3.1.EDM.25004665.pdf)
 
-<img width="1004" height="710" alt="Screenshot 2026-01-29 193325" src="https://github.com/user-attachments/assets/e4391030-9e2d-49f0-9699-5f7d68e6706d" />
+<img width="1034" height="731" alt="Screenshot 2026-02-11 080845" src="https://github.com/user-attachments/assets/5d5a0456-83e3-40af-908a-58819c32c6ad" />
+
 
 
 
